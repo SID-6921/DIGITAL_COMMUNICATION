@@ -1,9 +1,5 @@
 # DIGITAL_COMMUNICATION-
 
-Hello people...!
-This is one source destination for your DCOM lab sessions ..!
-happy learning...!
-
 # Digital Communication Lab Kit
 
 📡 Welcome to the Digital Communication Lab Kit repository – your one-stop destination for practical experiments in digital communication using MATLAB. This repository is designed to provide an immersive learning experience for students and enthusiasts exploring PSK, BASK, BFSK, and more in the fascinating world of digital communication.
